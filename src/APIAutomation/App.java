@@ -20,5 +20,8 @@ public class App
     {
     	System.out.print("this code in vipul branch");
     }
-
+ public void Rajat()
+    {
+    	System.out.print("this code in 2nd branc1h");
+    }
 }
